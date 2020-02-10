@@ -1,0 +1,13 @@
+
+.button {
+-fx-background-color : orange;
+}
+
+#id_textarea{
+ -fx-border-color:red;
+ }
+
+ #id_textfield{
+  -fx-border-color:red;
+  }
+
